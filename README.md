@@ -7,6 +7,16 @@
 
 # Descrição
 
-Página de login criada com HTML e CSS, com layout simples e funcional, adaptável a diferentes tamanhos de tela. Ótima base para sistemas de autenticação em sites e aplicações.
-Tecnologias: HTML5, CSS3
-Responsivo: Sim
+Página de login responsiva desenvolvida com HTML e CSS, ideal para praticar estrutura de formulários com foco visual e responsividade.
+
+Recursos incluídos:
+
+🔐 Formulário com campos estilizados
+
+🌙 Visual escuro e centrado
+
+📱 Design adaptado para mobile
+
+🧭 Layout com alinhamento preciso via flexbox
+
+🔒 Botão de login com estilo moderno
